@@ -1,6 +1,1 @@
-# samiascha.github.io
-# samiascha.github.io
-# samiascha.github.io
-# samiascha.github.io
-samiascha.github.io
-# samiascha.github.io
+This is my personal website. It contains my resume and biography. I believe it was implemented well for the most part, except I couldn't fix the margins on the biography page even though I included a parameter for doing so in my style sheet. I spent about 4 hours on this assignment, give or take.:
