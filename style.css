@@ -107,7 +107,7 @@ canvas{
   display: block;
   height: 0;
   left: 50%;
-  margin: 0;
+  margin: 5;
   position: absolute;
   top: 50%;
   -webkit-transition: all 0.3s;
