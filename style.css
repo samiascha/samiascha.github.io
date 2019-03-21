@@ -34,6 +34,8 @@ body{
     line-height: 1.3;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
+  background-image: url("cool-background.png");
+
   /*margin-left: 10%;
   margin-right: 10%;*/
 }
