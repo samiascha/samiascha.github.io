@@ -183,5 +183,6 @@ canvas{
   background-size: cover;
   background-position: 50% 50%;
   background-repeat: no-repeat;
+  top: 100px;
   background-image: url("cool-background.png");
 }
