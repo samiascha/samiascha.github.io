@@ -189,7 +189,7 @@ canvas{
 
 
 @media screen and (max-width: 1020px) {
-  #content, #links, #content, #text {
+  #content, #links, #content, #text, #particles-js {
     float: none;
     width: auto;
   }
