@@ -197,4 +197,23 @@ canvas{
   #description {
     font-size: 20px;
   }
+
+  /* Wrapper */
+  .icon-button {
+    background-color: white;
+    border-radius: 3.6rem;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 2.0rem;
+    height: 3.6rem;
+    line-height: 3.6rem;
+    margin: 0 30px;
+    position: relative;
+    text-align: center;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+    width: 3.6rem;
+  }
 }
