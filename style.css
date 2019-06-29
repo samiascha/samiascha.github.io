@@ -186,3 +186,11 @@ canvas{
   top: 100px;
   background-image: url("cool-background.png");
 }
+
+
+@media screen and (max-width: 1020px) {
+  #content, #links, #content, #text {
+    float: none;
+    width: auto;
+  }
+}
