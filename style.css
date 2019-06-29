@@ -189,8 +189,14 @@ canvas{
 
 
 @media screen and (max-width: 1020px) {
-  #content, #links, #content, #text, #description {
+  #content, #links, #content, #text {
     float: none;
     width: auto;
+  }
+
+  #description {
+    float: none;
+    width: auto;
+    font-size: 16px;
   }
 }
