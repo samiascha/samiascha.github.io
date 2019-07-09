@@ -203,5 +203,23 @@ canvas{
     margin-right: 5px;
   }
 
+.icon-button {
+  background-color: white;
+  border-radius: 4.6rem;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 4.0rem;
+  height: 4.6rem;
+  line-height: 4.6rem;
+  margin: 0 30px;
+  position: relative;
+  text-align: center;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  width: 4.6rem;
+  z-index: 10;
+}
 
 }
