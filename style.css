@@ -192,6 +192,8 @@ canvas{
   #content, #links, #content, #text, #particles-js {
     float: none;
     width: auto;
+    margin-left: 10px;
+    margin-right: 10px;
   }
 
   #description {
