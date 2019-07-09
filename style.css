@@ -199,6 +199,8 @@ canvas{
     font-family: 'Raleway', sans-serif;
     font-weight: 100;
     margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
   }
 
 .icon-button {
@@ -217,6 +219,7 @@ canvas{
       -ms-user-select: none;
           user-select: none;
   width: 4.6rem;
+  z-index: 10;
 }
 
 }
