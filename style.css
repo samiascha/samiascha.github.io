@@ -189,15 +189,11 @@ canvas{
 
 
 @media screen and (max-width: 1020px) {
-  #content, #links, #content, #text {
+  #content, #links, #content, #text, #particles-js {
     margin-left: 10px;
     margin-right: 10px;
     float: none;
     width: auto;
-  }
-
-  #particles-js {
-    transform: rotate(90deg);
   }
 
   #description {
