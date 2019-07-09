@@ -195,7 +195,7 @@ canvas{
   }
 
   #description {
-    font-size: 21px;
+    font-size: 20px;
     font-family: 'Raleway', sans-serif;
     font-weight: 100;
     margin-bottom: 10px;
@@ -211,7 +211,7 @@ canvas{
   font-size: 4.0rem;
   height: 4.6rem;
   line-height: 4.6rem;
-  margin: 0 30px;
+  margin: 0 40px;
   position: relative;
   text-align: center;
   -webkit-user-select: none;
