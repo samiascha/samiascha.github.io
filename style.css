@@ -188,40 +188,28 @@ canvas{
 }
 
 
-@media screen and (max-width: 1020px) {
-  #content, #links, #content, #text, #particles-js {
+@media screen and (max-width: 600px) {
+  #description {
     margin-left: 10px;
     margin-right: 10px;
     float: none;
     width: auto;
+    visibility: hidden;
   }
 
-  #description {
-    font-size: 20px;
-    font-family: 'Raleway', sans-serif;
-    font-weight: 100;
-    margin-bottom: 10px;
-    margin-left: 10px;
-    margin-right: 10px;
-  }
+#text {
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    height: 250px;
+    width: 100%;
+    text-align: center;
+    display: block;
+    background: transparent;
 
-.icon-button {
-  background-color: white;
-  border-radius: 4.6rem;
-  cursor: pointer;
-  display: inline-block;
-  font-size: 4.0rem;
-  height: 4.6rem;
-  line-height: 4.6rem;
-  margin: 0 40px;
-  position: relative;
-  text-align: center;
-  -webkit-user-select: none;
-     -moz-user-select: none;
-      -ms-user-select: none;
-          user-select: none;
-  width: 4.6rem;
-  z-index: 10;
 }
 
 }
