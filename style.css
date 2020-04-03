@@ -190,11 +190,7 @@ canvas{
 
 @media screen and (max-width: 600px) {
   #description {
-    margin-left: 10px;
-    margin-right: 10px;
-    float: none;
-    width: auto;
-    visibility: hidden;
+    display:none;
   }
 
 #text {
